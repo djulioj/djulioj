@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Juan David</h1>
-<h3 align="center">A System engineer student 👨🏽‍💻</h3>
+<h3 align="center">A Systems engineer 👨🏽‍💻</h3>
 
 
 - 📫 you can reach me at: **juandavidjuliosanjuan4a@gmail.com**
