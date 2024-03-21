@@ -1,4 +1,4 @@
-version: 2
-
-submodules:
-  include: all
+site_name: djulioj
+site_url: https://github.com/djulioj/djulioj.git
+nav:
+    - Home: README.md
